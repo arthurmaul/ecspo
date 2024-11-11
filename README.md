@@ -1,4 +1,7 @@
 # ECSPO
+
+NOTE: This was a learning project to help me understand ecs and development in python. It is not intended for serious use
+
 ## An ecs implementation for game development in python
 - implementation focusing on basic data structures and functions
 - intuitive api with minimal boilerplate and fast startup
